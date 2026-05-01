@@ -1,0 +1,2 @@
+Увеличенный dataset с кропами: https://www.kaggle.com/datasets/ziiiegen/price-ocr-data
+Сгенерированная синтетика: https://www.kaggle.com/datasets/ziiiegen/synthetic-ocr-textrecognitiondatagenerator
