@@ -7,10 +7,10 @@ from PIL import Image, ImageDraw, ImageFont
 import albumentations as A
 
 NUM_IMAGES = 30000
-OUTPUT_DIR = "dataset/sint_data"
+OUTPUT_DIR = "dataset/only_sint_data"
 
 OUTPUT_CSV_DIR = "dataset"
-CSV_FILENAME = "sint_data.csv"
+CSV_FILENAME = "only_sint_data.csv"
 
 MAX_WIDTH, MIN_WIDTH = 240, 60
 MAX_HEIGHT, MIN_HEIGHT = 180, 40

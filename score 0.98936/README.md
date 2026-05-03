@@ -269,3 +269,7 @@ python inference_v5.py
    - editdistance
 
 4. **GPU рекомендуется** для обучения. Скрипты автоматически используют CUDA если доступно.
+
+
+## Ссылки на датасеты
+**Для `parseq_sint`**: https://www.kaggle.com/datasets/killrant/sintetic-number
